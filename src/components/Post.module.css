@@ -121,3 +121,7 @@
 .commentForm button[type="submit"]:hover {
     filter: brightness(0.9);
 }
+
+.commentList {
+    margin-top: 2rem;
+}
